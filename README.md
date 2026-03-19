@@ -30,12 +30,3 @@ I aim to contribute to real-world products while growing in **high-impact engine
 - 📡 Exposure to **distributed systems and IoT (MQTT-based projects)**
 - 📈 Ability to turn **data into insights using Python**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VPranav-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VPranav-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VPranav-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=VPranav-lab&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
